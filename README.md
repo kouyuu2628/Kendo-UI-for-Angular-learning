@@ -1,25 +1,10 @@
-# Kendo-UI-for-Angular-learning
+# Kendo UI for Angular
 
+## Get Started
 https://www.telerik.com/kendo-angular-ui/getting-started/#toc-project-setup
 
-## notes
+## UI Components
+https://www.telerik.com/kendo-angular-ui/components/
 
-`npm install -g @angular/cli`
-
-`ng new my-first-angular-project --style=scss`
-
-`cd my-first-angular-project`
-
-`npm install --save @progress/kendo-angular-buttons @progress/kendo-angular-l10n`
-
-`npm install --save rxjs-compat@6`
-
-`import { BrowserAnimationsModule } from '@angular/platform-browser/animations';`
-
-`import { ButtonsModule } from '@progress/kendo-angular-buttons';`
-
-`npm install --save @progress/kendo-theme-default`
-
-Now, import the SCSS file from the package in src/styles.scss:
-
-`@import "~@progress/kendo-theme-default/scss/all";`
+## Progress Sass ThemeBuilder
+https://themebuilder.telerik.com/kendo-angular-ui
